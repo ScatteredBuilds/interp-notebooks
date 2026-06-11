@@ -1,6 +1,6 @@
-# Mechanistic Interpretability Notebooks
+# Transformer Interpretability Learning Notes
 
-This repository is a beginner-friendly workspace for learning mechanistic interpretability by building small, readable artifacts.
+This repository is a beginner-friendly workspace for learning transformer interpretability concepts by building small, readable artifacts.
 
 The focus is practical intuition for software engineers: understand what transformer components are doing, learn what evidence can and cannot show, and develop careful habits before moving into more advanced interpretability workflows.
 
@@ -30,17 +30,6 @@ Current focus:
 - `notes/residual_stream.md` - study notes on the residual stream, including how layers read from it, write to it, and why model-specific details need verification.
 - `experiments/attention_routing_toy.py` - a runnable toy calculation showing how attention weights can mix value information.
 - `outputs/attention_routing_toy_run.md` - saved output from the toy attention-routing experiment.
-
-## Roadmap
-
-Possible future topics:
-
-- Induction heads
-- Superposition
-- Circuits
-- Activation patching
-
-These are planned learning topics, not completed work.
 
 ## Limitations
 
