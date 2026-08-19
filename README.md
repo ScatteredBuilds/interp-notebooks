@@ -6,6 +6,8 @@ The focus is practical intuition for software engineers: understand what transfo
 
 This repository contains learning notes and small notebook artifacts focused on understanding transformer internals. It does not claim interpretability expertise.
 
+The runnable toy experiment requires Python 3.10 or newer because it uses strict-length checking in `zip`.
+
 ## Project Status
 
 Status: Active learning project.
